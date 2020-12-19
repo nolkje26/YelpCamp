@@ -1,2 +1,4 @@
 # YelpCamp
-The first website I created using Javascript, HTML and CSS (Bootstrap). Thanks for stopping by :)
+The first website I created using Node.js, HTML and CSS (Bootstrap) which is hosted on heroku: https://thawing-bastion-64778.herokuapp.com/
+
+Thanks for stopping by :)
