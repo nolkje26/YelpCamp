@@ -1,2 +1,0 @@
-# YelpCamp
-My first website!
